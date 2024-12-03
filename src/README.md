@@ -1,0 +1,2 @@
+- Main program is on Main.java
+- Tests are on Tests.java
